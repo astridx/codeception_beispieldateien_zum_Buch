@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6" type="plugin" group="content">
+<name>Paypal Schaltläche</name>
+<creationDate>[DATE]</creationDate>
+<author>[AUTHOR]</author>
+<authorEmail>[AUTHOR_EMAIL]</authorEmail>
+<authorUrl>[AUTHOR_URL]</authorUrl>
+<copyright>[COPYRIGHT]</copyright>
+<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+<version>1.0</version>
+<description>Das Plugin erzeugt eine PayPal "Kaufe jetzt" Schaltfläche.</description>
+<files>
+<filename plugin="agpaypal">agpaypal.php</filename>
+</files>
+</extension>
